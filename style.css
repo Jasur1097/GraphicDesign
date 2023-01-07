@@ -1,10 +1,20 @@
 header{
-	font-family: times new roman;
+	font-family: 'Princess Sofia', cursive;
+	font-size: 20px;
 	color: red;
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 }
 body{
 	background-color: turquoise;
 	font-family: cursive;
+}
+body img{
+	position: justify;
+	border-radius: 250px;
+	width: 550px;
+	border: 10px solid;
+}
+.image{
+	text-align: center;
 }
